@@ -1,6 +1,6 @@
 let githubUser = 'manonat'
 let repo = 'manonat.github.io'
-let imgFolder = '12BOIjGwQuRRlxzEdCaLVfbf_JAqaJnLI'
+let imgFolder = 'images'
 
 async function login() {
     const username = document.getElementById('username').value;
